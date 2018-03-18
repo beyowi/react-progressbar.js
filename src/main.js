@@ -23,9 +23,9 @@ class Shape extends Component {
     }
 
     render() {
-        const {style, className} = this.props;
+        const {style, containerClassName} = this.props;
 
-        return <div className={className} style={style} ref="progressBar"></div>;
+        return <div className={containerClassName} style={style} ref="progressBar"></div>;
     }
 
     componentWillReceiveProps(nextProps) {
