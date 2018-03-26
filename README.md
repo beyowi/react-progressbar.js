@@ -39,7 +39,7 @@ only in NPM.
 CommonJS
 
 ```javascript
-var ProgressBar = require('react-progressbar.js')
+var ProgressBar = require('react-progress-bar.js')
 var Circle = ProgressBar.Circle;
 ```
 
