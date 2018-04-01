@@ -1,6 +1,6 @@
 {
   "name": "react-progress-bar.js",
-  "version": "0.2.1-dev",
+  "version": "0.2.1",
   "description": "React wrapper for progressbar.js",
   "main": "dist/react-progressbar.js",
   "repository": {
@@ -22,7 +22,6 @@
     "loading",
     "circular"
   ],
-  "author": "Kimmo Brunfeldt <kimmobrunfeldt@gmail.com> (http://kimmobrunfeldt.github.io/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kimmobrunfeldt/react-progressbar.js/issues"
